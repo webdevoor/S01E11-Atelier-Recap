@@ -4,7 +4,7 @@
 
 *Developpeur web junior, en formation " Developpement Web et Accessibilite"*
 
- [Accueil](#Accueil)
+ Accueil -[Projet](#Projet) - [CV](#CV) - [Contact](#Contact)
 
 ## Presentation
 
@@ -12,4 +12,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consectetur libero
 
 ---
 
-2023 - Samir TAHAR - Me contacter
+2023 - Samir TAHAR - [Me-contacter](#Me-contacter)
+
