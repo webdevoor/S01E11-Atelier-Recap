@@ -7,3 +7,9 @@
 ### Contact
 
 Une question? Une idee? Une proposition?
+
+Contactez-moi
+
+A bientot !
+
+Samir TAHAR  [Me contacter](contact.md)

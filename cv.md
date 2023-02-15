@@ -4,7 +4,7 @@
 
 *Developpeur web junior, en formation " Developpement Web et Accessibilite"*
 
- Accueil -[Projet](#Projet) - CV - [Contact](#Contact)
+ [Accueil](README.md) -[Projet](projets.md) - CV - [Contact](contact.md)
 
  
 ## CV
@@ -41,4 +41,4 @@ samir.tahar@gmail.com
 - Voyages
 
 ---
-2023 - Samir TAHAR - [Me-contacter](#Me-contacter)
+2023 - Samir TAHAR - [Me-contacter](contact.md)
